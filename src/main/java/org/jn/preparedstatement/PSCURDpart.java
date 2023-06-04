@@ -98,6 +98,5 @@ public class PSCURDpart {
         connection.close();
     }
     public static void main(String[] args) {
-
     }
 }
